@@ -1,0 +1,5 @@
+swagger:
+  enabled: true
+  title: "Invoice API"
+  version: "1.0"
+  description: "API for managing invoices"
